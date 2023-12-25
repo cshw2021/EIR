@@ -1,3 +1,5 @@
 # Towards Extreme Image Rescaling with Generative Prior and Invertible Prior
 
-The source code coming soon! 
+## Updates
+\hline
+[2023-12-24] The paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.
