@@ -2,7 +2,7 @@
 
 Hao Wei, Chenyang Ge, Zhiyuan Li, Xin Qiao, Pengchao Deng.
 
-Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
+Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University.
 
 <p align="center">
  <img src="framework.png">
@@ -27,7 +27,7 @@ python vqir/test.py -opt vqir/options/test/test_vqir_stage2.yml
 ```
 
 ### Train
-Download the training dataset [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and pretrained weights of [VQGAN](https://heibox.uni-heidelberg.de/d/8088892a516d4e3baf92/?p=%2F) which put into `vqir/pretrained/vqgan'
+Download the training dataset [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and pretrained weights of [VQGAN](https://heibox.uni-heidelberg.de/d/8088892a516d4e3baf92/?p=%2F) which put into `vqir/pretrained/vqgan'.
 - stage 1: train the IFRM
 ```bash
 python vqir/train.py -opt vqir/options/train/train_vqir_stage1.yml
