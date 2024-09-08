@@ -5,7 +5,7 @@ Hao Wei, Chenyang Ge, Zhiyuan Li, Xin Qiao, Pengchao Deng.
 Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
 
 <p align="center">
- <img src="assets/framework.pdf">
+ <img src="framework.png">
  </p>
 
  if VQIR is helpful for you, please help star this repo. Thanks.
