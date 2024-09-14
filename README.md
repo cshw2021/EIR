@@ -25,6 +25,7 @@ Download the pretrained weights of VQIR ([16x and 32x](https://drive.google.com/
 ```bash
 python vqir/test.py -opt vqir/options/test/test_vqir_stage2.yml
 ```
+Note: If you test VQIR with scale 32, you will need to modify the lines 120-124 of `vqir/archs/layers.py' (replace N//2 with N).
 
 ### Train
 Download the training dataset [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and pretrained weights of [VQGAN](https://heibox.uni-heidelberg.de/d/8088892a516d4e3baf92/?p=%2F) which put into `vqir/pretrained/vqgan'.
